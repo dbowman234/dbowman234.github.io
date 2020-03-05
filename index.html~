@@ -22,7 +22,7 @@
 						<a href="research.html">Research</a>
 						<a href="outreach.html">Outreach</a>
 						<a href="about_me.html">About Me</a>
-						<a href="Academic_CV_2020_02.pdf">CV</a>
+						<a href="Academic_CV_2019_12.pdf">CV</a>
 					</nav>
 					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 				</div>
@@ -59,7 +59,7 @@
 						</footer>
 						<!-- </div> -->
 					        </article>
-
+						
 						<article>
 						<!-- <div class="box"> -->
 						<header>
@@ -99,7 +99,7 @@
                                         <li>My BitBucket: <a href="https://bitbucket.org/DominicBowman/"><font color="white">bitbucket.org/DominicBowman/</font></a></li>
 
 					</br>
-
+					
 					<li>ADS: <a href="https://ui.adsabs.harvard.edu" rel="nofollow"><font color="white">adsabs.harvard.edu</font></a></li>
 
                                         <li>arXiv: <a href="https://arxiv.org/list/astro-ph.SR/recent"><font color="white">arxiv.org/list/astro-ph.SR</font></a></li>
@@ -109,13 +109,13 @@
 					<li>gaia-kepler.fun: <a href="https://gaia-kepler.fun"><font color="white">gaia-kepler.fun</font></a></li>
 
 					<li>KASOC: <a href="http://kasoc.phys.au.dk" rel="nofollow"><font color="white">kasoc.phys.au.dk</font></a></li>
-
+					
 					<li>Kepler EB catalogue: <a href="http://keplerebs.villanova.edu" rel="nofollow"><font color="white">keplerebs.villanova.edu</font></a></li>
 
                                         <li>Kepler exoplanet archive: <a href="http://exoplanetarchive.ipac.caltech.edu" rel="nofollow"><font color="white">exoplanetarchive.ipac.caltech.edu</font></a></li>
 
                                         <li>lightkurve: <a href="https://docs.lightkurve.org/index.html"><font color="white">lightkurve.org</font></a></li>
-
+	
 					<li>MAST: <a href="http://archive.stsci.edu/index.html" rel="nofollow"><font color="white">archive.stsci.edu</font></a></li>
 
 					<li>PERIOD04: <a href="http://www.univie.ac.at/tops/Period04" rel="nofollow"><font color="white">www.univie.ac.at/tops/Period04</font></a></li>
@@ -127,7 +127,7 @@
 					</br>
 
 				</div>
-
+				
 				<div class="6u 12u$(small)">
 				  <header>
 				    <h2>Springer Thesis</h2>
@@ -144,7 +144,7 @@
 				  <p>My article entitled <a href="https://www.nature.com/articles/s41550-019-0768-1"><font color="white">"Low-frequency gravity waves in blue supergiants revealed by high-precision space photometry"</font></a>, which includes a large sample of hot massive stars observed by the NASA K2 and TESS space telescopes, was published on 6 May 2019 in Nature Astronomy.</p>
 
 				</div>
-				</div>
+				</div>	
 			  </div>
 			</section>
 

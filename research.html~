@@ -1,0 +1,127 @@
+<!DOCTYPE HTML>
+<!--
+	Theory by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Dominic Bowman</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="index.html" class="logo">Dominic Bowman</a>
+					<nav id="nav">
+					    <a href="index.html">Home</a>
+					    <a href="research.html"><font color="yellow">Research</font></a>
+					    <a href="outreach.html">Outreach</a>
+					    <a href="about_me.html">About Me</a>
+					    <a href="Academic_CV_2019_12.pdf">CV</a>
+					</nav>
+					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header>
+
+		<!-- Three -->
+			<section id="three" class="wrapper">
+				<div class="inner">
+					<header class="align-center">
+						<h2>Research</h2>
+						<p></p>
+					</header>
+
+					<h3>A brief overview</h3>
+
+					<div class="image round">
+					  <span class="image right"><img src="images/SAAO.jpg" alt="SAAO"></span>
+					
+					  <p>Currently, I am a postdoctoral research associate in the <a href="https://fys.kuleuven.be/ster">Institute of Astronomy</a> at the KU Leuven in Belgium. My research interests include asteroseismology of intermediate- and high-mass stars, including beta Cephei, SPB, delta Scuti, roAp and gamma Doradus stars, with a particular focus of searching for and interpreting signatures of internal gravity waves in all stars with convective cores. I am working as part of Prof. Conny Aerts' ERC advanced grant: <a href="https://fys.kuleuven.be/ster/Projects/mamsie">MAMSIE</a> (Mixing and Angular Momentum tranSport of massIvE stars). The MAMSIE team consists of academics, post-docs and PhD students from within the KU Leuven, and has strong links to the research team led by Professor Tamara Rogers at Newcastle University in the UK.</p>
+
+					<h3>What is Asteroseismology?</h3>
+					<p>Asteroseismology uses stellar oscillations to investigate stellar structure and evolution to improve theoretical models for a diverse range of stars. The quality of space observations, such as from the CoRoT, <i>Kepler</i>/K2 and TESS space telescopes, provide excellent insight of physics that is not currently well understood for massive stars. Massive stars can pulsate in gravity (g) mode oscillations that probe the deep stellar interior and provide insight of the physics near their convective cores. The goal of MAMSIE is to combine these observations with 3D hydrodynamical simulations to improve our understanding of stellar structure and evolution for massive stars. Specifically, constraints from seismic observables will allow prescriptions for angular momentum transport caused by internal gravity waves and mixing by turbulent entrainment to be formulated. Any star with a convective core is a potential star to study, and there are no restrictions on whether a star is a fast or slow rotator, the strength of its magnetic field or the presence of a stellar wind.</p>
+
+					</div>
+					
+					<h3>Find out more...</h3>
+
+					<p>A full list of my publications is included as part of my <a href="Academic_CV_2019_12.pdf">Curriculum Vitae</a> (last updated 02/12/2019), or via the NASA/ADS and Google Scholar links below:</p>
+					</br>
+					
+					<div class="flex flex-3">
+						<article>
+						     <header>
+						          <center>
+							    <a href="https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0001-7402-3852&sort=date+desc" class="button special">My NASA/ADS profile</a>
+							  </center>
+						     </header>
+						</article>
+						<article>
+						     <header>
+						          <center>
+							    <a href="https://arxiv.org/abs/1908.08468" class="button special">My latest paper on arXiv astro.ph</a>
+							    <center>
+						     </header>
+						</article>
+						<article>
+						     <header>
+						          <center>
+							    <a href="http://scholar.google.co.uk/citations?user=Hrkze-w7jcoC&hl=en&oi=ao" class="button special">My Google scholar profile</a>
+							  </center>
+						     </header>
+						</article>
+					</div>
+
+					<hr class="major" />
+
+					<h3>Computing languages</h3>
+					<p>I have extensive experience using Python, Fortran and IDL for scientific projects. Furthermore, I have developed my skills with the stellar evolution code MESA and the stellar pulsation code GYRE for the purpose of forward seismic modelling of main-sequence BAF stars. I am also proficient with LaTeX and html in the context of both scientific and non-scientific projects.</p>
+
+					<h3>Scientific talks, conference participation and observing experience</h3>
+					<p>As an astronomer and an academic, I am very fortunate to travel the world as part of my job. My Curriculum Vitae contains a complete list of all my past and ongoing observing projects and experience I have at telescopes around the world. Also, it contains a summary of the conferences that I have attended and talks I have presented.</p>
+
+					</br>
+
+					<div class="image round">
+					  <span class="image right"><img src="images/Mercator.jpg" alt="Mercator"></span>
+					  <span class="image left"><img src="images/Santa_Barbara.jpg" alt="UCSB"></span>
+					</div>
+
+				</div>
+			</section>
+            
+            
+            <!-- Footer -->
+            <footer id="footer">
+				<div class="inner">
+					<div class="flex">
+						<div class="copyright">
+							Design by <a href="https://templated.co">TEMPLATED</a>. Content by Dominic Bowman.
+						</div>
+						<!-- <ul class="icons"> -->
+							<!-- <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li> -->
+							<!-- <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li> -->
+							<!-- <li><a href="#" class="icon fa-linkedin"><span class="label">linkedIn</span></a></li> -->
+							<!-- <li><a href="#" class="icon fa-pinterest-p"><span class="label">Pinterest</span></a></li> -->
+							<!-- <li><a href="#" class="icon fa-vimeo"><span class="label">Vimeo</span></a></li> -->
+							<!-- </ul> -->
+						<ul class="actions">
+						        <li><a href="mailto:dominic.bowman [at] kuleuven.be" class="button special icon fa-download" onclick="this.href='mailto:'+'dominic.bowman'+'@'+'kuleuven.be'">email me</a></li>
+						</ul>
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
